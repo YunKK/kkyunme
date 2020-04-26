@@ -8,7 +8,7 @@ public_floder: "images/upload"
 collections:
   - name: "WordsToMyself"
     label: "Words To Myself" 
-    folder: "content/wordstomyself"
+    folder: "content/Wordstomyself"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -24,10 +24,9 @@ collections:
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-- name: "Children"
+- name: "Children" 
     label: "Children" 
-    folder: "content/children"
+    folder: "content/Children"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -43,10 +42,9 @@ collections:
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-- name: "Books"
+- name: "Books" 
     label: "Books" 
-    folder: "content/books"
+    folder: "content/Books"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
@@ -62,10 +60,9 @@ collections:
       - {label: Sharing, name: share, widget: boolean, default: true}
       - {label: Type, name: type, widget: hidden, default: "post"}
       - {label: "Body", name: "body", widget: "markdown"}
-
-- name: "Code"
+- name: "Code" 
     label: "Code" 
-    folder: "content/code"
+    folder: "content/Code"
     create: true
     slug: "{{year}}-{{slug}}"
     fields:
