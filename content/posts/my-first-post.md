@@ -1,7 +1,12 @@
 ---
-title: "My First Post"
-date: 2020-04-27T19:30:38+08:00
-draft: true
+title: WordsToMyself
+description: Example test article that contains basic HTML elements for text formatting on the Web.
+date: 2018-04-16
+categories:
+  - "WordsToMyself"
+tags:
+  - "WordsToMyself"
+  
 ---
 
 ## Hi!
