@@ -1,11 +1,12 @@
 ---
-title: "First Post"
-date: 2020-04-28T01:44:50+08:00
-draft: False
+title: First Post
+date: {}
+draft: false
 categories:
-  - "Mind"
+  - Mind
 tags:
-  - "Mind"
+  - Mind
+published: true
 ---
 
 Hi!
