@@ -12,7 +12,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   avatar = "img/avatar.png"
 
 [Params]
-  subtitle = "Books Children Code" # Subtitle of your site
+  subtitle = "" # Subtitle of your site
   description = "KK's Personal blog about everything" # Description of your site
   opengraph = true
   twitter_cards = false
