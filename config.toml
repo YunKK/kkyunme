@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://kkyun.me/"
 title = "KongYun"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
