@@ -11,9 +11,12 @@ tags:
 ---
 ## Base Html
 
+{{< figure src="https://unsplash.com/photos/cvBBO4PzWPg" title="basehtml" >}}
+
 {{< highlight html >}}
 <section id="main">
   <div>
+  
    <!DOCTYPE html>
 <html>
     <head>
