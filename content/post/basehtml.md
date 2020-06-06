@@ -2,6 +2,7 @@
 title: "Base Html"
 description: "learning note"
 date: "2020-06-06T17:01:40+08:00"
+draft: false
 thumbnail: ""
 categories:
   - "Coding"
