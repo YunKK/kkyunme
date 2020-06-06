@@ -8,15 +8,15 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "KK"
-  bio = "Mom"
-  avatar = "img/avatar.png"
+  bio = " "
+  avatar = "img/touxiang.png"
 
 [Params]
   subtitle = "" # Subtitle of your site
   description = "KK's Personal blog about everything" # Description of your site
   opengraph = true
   twitter_cards = false
-  readmore = false # Show "Read more" button in list if true
+  readmore = true # Show "Read more" button in list if true
   authorbox = true
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
