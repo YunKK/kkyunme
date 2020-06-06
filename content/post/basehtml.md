@@ -11,7 +11,7 @@ tags:
 ---
 ## Base Html
 
-{{< figure src="C:\Users\Acer\Documents\GitHub\kkyunme\themes\mainroad\static\img\html.jpg" title="basehtml" >}}
+Learning everyday, Base Html code.
 
 {{< highlight html >}}
 <section id="main">
