@@ -14,8 +14,6 @@ tags:
 Learning everyday, Base Html code.
 
 {{< highlight html >}}
-<section id="main">
-  <div>
 
    <!DOCTYPE html>
 <html>
@@ -52,9 +50,5 @@ Learning everyday, Base Html code.
     
 </html>
 
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
+    
 {{< /highlight >}}
